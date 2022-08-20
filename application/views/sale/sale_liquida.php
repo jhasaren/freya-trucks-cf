@@ -308,12 +308,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                 Imprimir Ticket
                                             </a>-->
                                             <!--Impresion por libreria mike32-->
+                                            <!--
                                             <button type="submit" class="btn btn-success btn-lg">
                                                 <i class="glyphicon glyphicon-check glyphicon-white"></i>
                                                 Imprimir Ticket
                                             </button>
+                                            -->
                                             <!--Impresion por navegador-->
-                                            <!--<input id="btnprint" class="btn btn-success btn-lg" type="button" value="Imprimir Ticket" onclick="PrintElem('#ticketPrint')" />-->
+                                            <input id="btnprint" class="btn btn-success btn-lg" type="button" value="Imprimir Ticket" onclick="PrintElem('#ticketPrint')" />
                                             </center>
                                         </form>
                                     </div>
