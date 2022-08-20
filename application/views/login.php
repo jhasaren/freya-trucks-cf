@@ -21,7 +21,7 @@
     <link href="<?php echo base_url().'public/gentelella/build/css/custom.min.css'; ?>" rel="stylesheet">
     <style>
     .login {
-        background: url("http://localhost/freya-trucks/public/img/photohome.jpg") no-repeat center center fixed; 
+        background: url("https://cafeteria.bodypowercol.com/public/img/photohome.jpg") no-repeat center center fixed; 
         opacity: 0.9;
         -webkit-background-size: cover;
         -moz-background-size: cover;
